@@ -10,7 +10,7 @@ redirect_from:
 I received my PhD in Electronics and Information from Southeast University of China in 2023, and my MSC in Computer science from Dalian University of Technology of China in 2019. I am currently a lecturer at the School of Computer Science and Technology, Changchun University of Science and Technology. My main research interests are in the areas of machine learning, privacy protection and connected vehicles. In addition, I am also engaged in research related to homomorphic encryption, mainly studying encryption algorithms based on chaos theory. My work is driven by my passion for using artificial intelligence to solve and solve real-world problems.
 I am committed to fostering collaboration and knowledge sharing within and outside academia. By integrating an interdisciplinary approach, I strive to contribute to the development of intelligent systems and their application in solving complex challenges.
 
-A data-driven personal website
+#### A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
