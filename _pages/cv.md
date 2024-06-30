@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Southeast University, 2019 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronics and Information, School of Cyberspace Security, Southeast University, 2019.09-2023.10
+* M.S. in Computer Technology, School of Computer Science and Technology, Dalian University of Technology, 2017.09-2019.06
+%* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
