@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: https://scholar.google.com/citations?user=Zr5gTwYAAAAJ&hl=zh-CN
 author_profile: true
 ---
 
