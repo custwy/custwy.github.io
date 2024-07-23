@@ -1,12 +1,19 @@
 ---
-title: "Paper Title Number 4"
+title: "The design of keyed hash function based on CNN-MD structure"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'In this paper, we propose a new chaotic neural network called the Merkle–Damgaard (CNN-MD) iterative structure, which we designed from the perspective of resisting attacks, such as length extension, second original image, Joux multiple collision, and intermediate encounter attacks. A new chaotic hash function based on the CNN-MD is presented. First, CNN is used as the compression function of CNN-MD, which ensures both the unidirectionality of data compression and the sensitivity of the hash value. Furthermore, the multi-input single-output construction of the CNN can achieve highly efficient data compression. In addition, in the process of group encryption of data, we use the value padding of coupled lattice mapping to improve the alignment of the plaintext of the MD algorithm. This new alignment can enhance the hash function’s collision resistance and the CNN-MD sensitivity. Experimental and theoretical analyses show that our proposed hashing algorithm can resist attacks, such as second original image, brute force, and multiple collision attacks, better than MD5, SHA-1, and SHA-2 algorithms. In terms of speed, our proposed hashing algorithm can successfully handle existing commercial scenarios better than MD5, SHA-1, SHA-3, and other methods. Therefore, the hash algorithm proposed in this study can be applied to existing e-commerce scenarios.'
+date: 2021-03-17
+venue: 'Chaos, Solitons & Fractals'
+paperurl: 'https://doi.org/10.1016/j.chaos.2021.111443.'
+citation: 'Yu Wang, Liquan Chen, Xingyuan Wang, Ge Wu, Kunliang Yu, Tianyu Lu,
+The design of keyed hash function based on CNN-MD structure,
+Chaos, Solitons & Fractals,
+Volume 152,
+2021,
+111443,
+ISSN 0960-0779,
+https://doi.org/10.1016/j.chaos.2021.111443.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
